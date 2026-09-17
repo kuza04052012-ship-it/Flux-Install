@@ -81,7 +81,6 @@ npm run dev
 npm run build
 ```
 
-> Replace the commands above with whatever your actual build toolchain uses (Electron, GTK, Qt, Tauri, etc.) — this section is a placeholder for the real build steps.
 
 <br>
 
